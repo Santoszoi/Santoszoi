@@ -1,6 +1,6 @@
 # Hi, I'm Marcos Neves 👋
 
-### Junior Front-End Developer · React · TypeScript · JavaScript
+### Junior Front-End Developer · React · Next.js · TypeScript
 
 I'm a developer based in Brasília, Brazil, building websites and business applications through **Marcos Solutions**. My work focuses on turning everyday business workflows into practical web interfaces.
 
@@ -10,10 +10,10 @@ I'm open to **remote junior developer opportunities** and **freelance web develo
 
 | Area | Technologies |
 | --- | --- |
-| Front-end | React, TypeScript, JavaScript, HTML, CSS, Vite |
+| Front-end | React, Next.js, TypeScript, JavaScript, HTML, CSS |
 | Back-end | Node.js, Express |
-| Data | SQLite, SQL |
-| Tools | Git, GitHub, VS Code, Netlify |
+| Data | MySQL, SQLite, SQL |
+| Tools | Git, GitHub Actions, Docker, Docker Compose, VS Code, Netlify, Render |
 
 ## Featured work
 
@@ -21,7 +21,14 @@ I'm open to **remote junior developer opportunities** and **freelance web develo
 
 A full-stack portfolio project for managing support tickets, priorities, assignments, comments and status changes.
 
-**Stack:** React, TypeScript, Vite, Node.js, Express and SQLite.
+**Stack:** Next.js, React, TypeScript, Node.js, Express and MySQL; SQLite for local development.
+
+- Ticket assignment, priorities, comments, history and dashboard indicators.
+- MySQL persistence with verified TLS; ticket retention checked after an API redeploy.
+- An isolated, read-only visitor mode with fictional data.
+- Docker Compose environment and automated API, MySQL and browser checks in GitHub Actions.
+
+The hosted demo currently requires team access. The repository includes installation instructions and validation notes.
 
 [Explore the source and setup instructions →](https://github.com/Santoszoi/deskflow-help-desk#readme)
 
