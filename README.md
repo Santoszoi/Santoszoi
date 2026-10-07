@@ -49,6 +49,14 @@ A focused vanilla JavaScript project demonstrating DOM state, browser persistenc
 
 ➡️ **[Explore Task List](https://github.com/Santoszoi/listadetarefa2#readme)**
 
+### 🎨 UI interaction studies
+
+Small front-end exercises focused on interaction details, responsive behavior and accessibility:
+
+- [Search UI](https://github.com/Santoszoi/barra-de-busca) — search states, keyboard shortcuts and immediate feedback.
+- [Mobile Navigation UI](https://github.com/Santoszoi/navegacao) — mobile navigation states and accessible active feedback.
+- [Accessible Dialog UI](https://github.com/Santoszoi/JANELA-DE-TESTE) — focus management and confirmation patterns.
+
 ### 🌐 [Marcos Solutions](https://marcossolutions.com.br)
 
 My web-development portfolio and business presence.
