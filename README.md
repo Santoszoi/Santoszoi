@@ -1,49 +1,66 @@
 # Hi, I'm Marcos Neves 👋
 
-### Junior Front-End Developer · React · Next.js · TypeScript
+### Front-End / Full-Stack JavaScript Developer
+**React · Next.js · TypeScript · Node.js**
 
-I'm a developer based in Brasília, Brazil, building websites and business applications through **Marcos Solutions**. My work focuses on turning everyday business workflows into practical web interfaces.
+I'm a developer based in Brasília, Brazil, focused on building practical web applications with modern JavaScript and TypeScript.
 
-I'm open to **remote junior developer opportunities** and **freelance web development projects** with international teams.
+My current flagship project is **DeskFlow**, a full-stack help desk application where I work across the interface, API, database, automated checks and containerized development environment.
 
-## Technologies I work with
+I'm open to **junior / associate software engineering opportunities**, including **remote roles in Brazil and international remote teams that hire in LATAM**.
+
+## Core stack
 
 | Area | Technologies |
 | --- | --- |
 | Front-end | React, Next.js, TypeScript, JavaScript, HTML, CSS |
-| Back-end | Node.js, Express |
+| Back-end | Node.js, Express, REST APIs, JWT |
 | Data | MySQL, SQLite, SQL |
-| Tools | Git, GitHub Actions, Docker, Docker Compose, VS Code, Netlify, Render |
+| Engineering | Git, GitHub Actions, Docker, Docker Compose, Playwright |
+| Delivery | Netlify, Render |
 
-## Featured work
+## Featured projects
 
-### [DeskFlow — Help Desk & Ticket Management](https://github.com/Santoszoi/deskflow-help-desk)
+### 🎫 [DeskFlow — Full-Stack Help Desk](https://github.com/Santoszoi/deskflow-help-desk)
 
-A full-stack portfolio project for managing support tickets, priorities, assignments, comments and status changes.
+A ticket-management application designed around a real support workflow.
 
-**Stack:** Next.js, React, TypeScript, Node.js, Express and MySQL; SQLite for local development.
+**Next.js · React · TypeScript · Node.js · Express · MySQL · Docker**
 
-- Ticket assignment, priorities, comments, history and dashboard indicators.
-- MySQL persistence with verified TLS; ticket retention checked after an API redeploy.
-- An isolated, read-only visitor mode with fictional data.
-- Docker Compose environment and automated API, MySQL and browser checks in GitHub Actions.
+- Ticket queue, priorities, assignments, comments and activity history.
+- JWT-based API authorization and role-aware access.
+- MySQL persistence for hosted environments and SQLite for local development.
+- Docker Compose environment.
+- Automated API, persistence and browser checks with GitHub Actions and Playwright.
+- Architecture, setup, deployment and validation documentation.
 
-The hosted demo currently requires team access. The repository includes installation instructions and validation notes.
+➡️ **[Explore DeskFlow](https://github.com/Santoszoi/deskflow-help-desk#readme)**
 
-[Explore the source and setup instructions →](https://github.com/Santoszoi/deskflow-help-desk#readme)
+### ✅ [Task List — JavaScript Browser App](https://github.com/Santoszoi/listadetarefa2)
 
-### [Marcos Solutions — Business Website](https://github.com/Santoszoi/marcos-repositorio)
+A focused vanilla JavaScript project demonstrating DOM state, browser persistence and automated browser validation.
 
-A website presenting my services, project portfolio and contact channels.
+**JavaScript · HTML · CSS · localStorage · Playwright**
 
-**Stack:** HTML, CSS and JavaScript.
+- Create, edit, complete, filter and delete tasks.
+- Persistent state with defensive storage handling.
+- Responsive interface and keyboard-friendly interactions.
+- Browser tests covering core flows, persistence and injection handling.
 
-[Visit my portfolio →](https://marcossolutions.com.br)
+➡️ **[Explore Task List](https://github.com/Santoszoi/listadetarefa2#readme)**
 
-## Let's connect
+### 🌐 [Marcos Solutions](https://marcossolutions.com.br)
 
-- **Email:** [marcosrony.neves@gmail.com](mailto:marcosrony.neves@gmail.com)
-- **LinkedIn:** [Marcos Neves](https://www.linkedin.com/in/marcos--neves)
-- **Portfolio:** [marcossolutions.com.br](https://marcossolutions.com.br)
+My web-development portfolio and business presence.
 
-Based in Brazil · Available for remote opportunities
+## What I'm looking for
+
+I'm especially interested in **Front-End, React, Full-Stack JavaScript and Junior/Associate Software Engineering** roles where I can contribute to real products, strengthen my engineering fundamentals and continue growing across front-end, APIs, databases, testing and delivery.
+
+Available for **remote opportunities in Brazil** and **international remote opportunities open to professionals based in Brazil / LATAM**.
+
+## Connect
+
+[Portfolio](https://marcossolutions.com.br) · [LinkedIn](https://www.linkedin.com/in/marcos--neves) · [GitHub](https://github.com/Santoszoi)
+
+📍 Brasília, Brazil
