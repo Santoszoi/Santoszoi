@@ -47,15 +47,15 @@ A focused vanilla JavaScript project demonstrating DOM state, browser persistenc
 - Responsive interface and keyboard-friendly interactions.
 - Browser tests covering core flows, persistence and injection handling.
 
-➡️ **[Explore Task List](https://github.com/Santoszoi/listadetarefa2#readme)**
+➡️ **[Live demo](https://listadetarefa2-9xu6ccwg2-santoszois-projects.vercel.app)** · **[Explore Task List](https://github.com/Santoszoi/listadetarefa2#readme)**
 
 ### 🎨 UI interaction studies
 
 Small front-end exercises focused on interaction details, responsive behavior and accessibility:
 
-- [Search UI](https://github.com/Santoszoi/barra-de-busca) — search states, keyboard shortcuts and immediate feedback.
-- [Mobile Navigation UI](https://github.com/Santoszoi/navegacao) — mobile navigation states and accessible active feedback.
-- [Accessible Dialog UI](https://github.com/Santoszoi/JANELA-DE-TESTE) — focus management and confirmation patterns.
+- [Search UI](https://github.com/Santoszoi/barra-de-busca) ([live demo](https://barra-de-busca-6px62hd5o-santoszois-projects.vercel.app)) — search states, keyboard shortcuts and immediate feedback.
+- [Mobile Navigation UI](https://github.com/Santoszoi/navegacao) ([live demo](https://navegacao-coeyou9mc-santoszois-projects.vercel.app)) — mobile navigation states and accessible active feedback.
+- [Accessible Dialog UI](https://github.com/Santoszoi/JANELA-DE-TESTE) ([live demo](https://janela-de-teste-bub1b4sb9-santoszois-projects.vercel.app)) — focus management and confirmation patterns.
 
 ### 🌐 [Marcos Solutions](https://marcossolutions.com.br)
 
