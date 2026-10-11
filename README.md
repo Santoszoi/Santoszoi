@@ -36,7 +36,7 @@ A ticket-management application designed around a real support workflow.
 
 **[Screenshots, video and local setup](https://github.com/Santoszoi/deskflow-help-desk#readme)**
 
-The hosted application currently requires Netlify team access; the repository includes a walkthrough and an isolated local visitor mode.
+**[Live demo](https://deskflow-help-desk-app.netlify.app/)** · The repository also includes a walkthrough and an isolated local visitor mode.
 
 ### [Marcos Solutions Varejo — Point of Sale](https://github.com/Santoszoi/marcos-solutions-varejo)
 
