@@ -5,7 +5,7 @@
 
 I'm a developer based in Brasília, Brazil, focused on building practical web applications with modern JavaScript and TypeScript.
 
-My current flagship project is **DeskFlow**, a full-stack help desk application where I work across the interface, API, database, automated checks and containerized development environment.
+My projects cover support workflows, retail operations and IT asset inventory. In **DeskFlow**, I work across the interface, API, database, automated checks and containerized development environment.
 
 I'm open to **junior / associate software engineering opportunities**, including **remote roles in Brazil and international remote teams that hire in LATAM**.
 
@@ -17,7 +17,7 @@ I'm open to **junior / associate software engineering opportunities**, including
 | Back-end | Node.js, Express, REST APIs, JWT |
 | Data | MySQL, SQLite, SQL |
 | Engineering | Git, GitHub Actions, Docker, Docker Compose, Playwright |
-| Delivery | Netlify, Render |
+| Delivery | Vercel, Netlify, Render |
 
 ## Featured projects
 
@@ -34,7 +34,49 @@ A ticket-management application designed around a real support workflow.
 - Automated API, persistence and browser checks with GitHub Actions and Playwright.
 - Architecture, setup, deployment and validation documentation.
 
-➡️ **[Explore DeskFlow](https://github.com/Santoszoi/deskflow-help-desk#readme)**
+**[Screenshots, video and local setup](https://github.com/Santoszoi/deskflow-help-desk#readme)**
+
+The hosted application currently requires Netlify team access; the repository includes a walkthrough and an isolated local visitor mode.
+
+### [Marcos Solutions Varejo — Point of Sale](https://github.com/Santoszoi/marcos-solutions-varejo)
+
+A retail prototype covering checkout, inventory and cash-register operations.
+
+**React · TypeScript · Node.js · SQLite · Electron**
+
+- Product search, cart, stock movements, payments recorded by the operator and cash-register closing.
+- Local server with authentication, permissions, transactional sales and backups.
+- Separate browser demo with fictional data and local simulation storage.
+- Screenshots, a short walkthrough and documented implementation limits.
+
+**[Live demo](https://marcos-solutions-varejo-demo.vercel.app/)** · **[Source and walkthrough](https://github.com/Santoszoi/marcos-solutions-varejo#readme)**
+
+The demo does not charge payments or issue authorized fiscal documents.
+
+### [DeskFlow Pro — React Support Dashboard](https://github.com/Santoszoi/deskflow-pro)
+
+A responsive dashboard for exploring ticket-management workflows.
+
+**React · TypeScript · Vite · Tailwind CSS · Express**
+
+- Dashboard indicators, charts, ticket search and priority/status filters.
+- Create, edit and delete tickets; export filtered results as CSV.
+- Hosted front-end demo stores simulated tickets in the current browser.
+- Express API available for local development with JSON persistence.
+
+**[Live demo](https://deskflow-pro.vercel.app/)** · **[Source and setup](https://github.com/Santoszoi/deskflow-pro#readme)**
+
+### [AssetPilot — IT Asset Inventory](https://github.com/Santoszoi/assetpilot-gestao-ativos)
+
+A local web application for tracking equipment, ownership and location.
+
+**JavaScript · HTML · CSS · Node.js**
+
+- Asset registration, search, editing, activity history and CSV export.
+- Local administrator authentication and JSON file persistence.
+- No external dependencies; includes startup instructions and automated tests.
+
+**[Source and local setup](https://github.com/Santoszoi/assetpilot-gestao-ativos#readme)**
 
 ### ✅ [Task List — JavaScript Browser App](https://github.com/Santoszoi/listadetarefa2)
 
